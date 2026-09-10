@@ -116,4 +116,12 @@ Estudante de Tecnologia em Banco de Dados, em transição de carreira para a ár
 
 🔗 LinkedIn: https://www.linkedin.com/in/antonio-isac-411031216/ <br>
 📧 E-mail: antonio.sgbl@gmail.com
+<br><br>
 
+<h2>📌 Histórico de Versões</h2>
+<br>
+• v3.0 (Setembro/2026): Adicionados 22 novos clientes e 20 novos empréstimos para expandir a base de testes e praticar consultas mais complexas.
+<br><br>
+• v2.0 (Agosto/2026): Atualização com novos clientes e correções.
+<br><br>
+• v1.0 (Agosto/2026): Versão inicial do banco de dados da biblioteca.
